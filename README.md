@@ -1,2 +1,16 @@
 # student-management-system
-A simple student management system for software construction lab
+
+This project is developed as part of the Software Construction Lab.
+
+## Features
+- Add student details
+- View student records
+- Update student information
+- Delete student records
+
+## Technologies Used
+- Programming Language: (C / Java / Python)
+- Database: (if any)
+
+## Author
+Dharini Balamurugan
